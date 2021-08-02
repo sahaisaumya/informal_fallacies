@@ -16,7 +16,7 @@ def primary_parse():
 	parser.add_argument('--valid_batch_size', type=int, default=16)
 	parser.add_argument('--test_batch_size', type=int, default=16)
 	parser.add_argument('--epochs', type=int, default=10)
-	parser.add_argument('--train_flag', type=int, default=1)
+	parser.add_argument('--train_flag', type=int, default=1) # specify 0 to evaluate on test data only
 	parser.add_argument('--seed', type=int, default=100)
 	parser.add_argument('--base_model', default='bert-base-uncased') 
 	parser.add_argument('--model') # {"bertModel" #mgnModel}
