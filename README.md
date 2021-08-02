@@ -1,5 +1,6 @@
 # Informal fallacies
-Data and code for the paper "[Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions](https://aclanthology.org/2021.acl-long.53/)", ACL 2021.
+Data and code for the paper "[Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions](https://aclanthology.org/2021.acl-long.53/)", ACL 2021.<br>
+More details are available in the respective folders.
 
 ## Citation
 
