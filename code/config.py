@@ -20,7 +20,7 @@ def primary_parse():
 	parser.add_argument('--seed', type=int, default=100)
 	parser.add_argument('--base_model', default='bert-base-uncased') 
 	parser.add_argument('--model') # {"bertModel" #mgnModel}
-	parser.add_argument('--folder') 
+	parser.add_argument('--folder') # path to folder with data splits
 	parser.add_argument('--classes') #{"multi" "binary"}
 	parser.add_argument('--alpha', type=float, default=0.5)
 	
