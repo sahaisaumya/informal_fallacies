@@ -8,7 +8,7 @@ Unprocessed data for each of the considered 8 fallacies. <br>
 
 #### Metadata for `*_annotated.csv`
 
-* comment_id: Unique identifier of the comment
+* comment_id: Unique identifier of the label comment
 * title: Title of the submission
 * comment : Label comment
 * parent : Comment of interest (COI), can be a direct comment to submission 
